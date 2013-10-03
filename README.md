@@ -1,4 +1,4 @@
 Lab1
 ====
 
-Laboration 1 - PHPLogin
+Laboration 1 - PHPLogins
